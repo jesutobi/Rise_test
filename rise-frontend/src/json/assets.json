@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Stocks",
+    "text": "We help you invest and manage your money by investing in our portfolio of 30 high-growth stocks across the US market with our equity portfolio of power stocks.",
+    "Historical_returns": "14% per annum",
+    "Risk_Level": "Medium",
+    "icon": "stocks.svg",
+    "link": "/"
+  },
+  {
+    "title": "Real Estate",
+    "text": "Our Real Estate plan is the sweet middle. Best for those who want a balance of good returns and medium risk. This plan invests in rented buildings in the US.",
+    "Historical_returns": "14% per annum",
+    "Risk_Level": "Medium",
+    "icon": "restate.svg",
+    "link": "/"
+  },
+  {
+    "title": "Fixed Income",
+    "text": "A low-risk asset perfect for anyone who wants to protect their money in a secure, appreciating currency, i.e. the dollar. For people who want to protect their hard-earned money from inflation while earning steady returns.",
+    "Historical_returns": "14% per annum",
+    "Risk_Level": "Medium",
+    "icon": "fixed.svg",
+    "link": "/"
+  }
+]

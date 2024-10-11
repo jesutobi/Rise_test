@@ -1,0 +1,74 @@
+{
+  "first": [
+    {
+      "name": "About us",
+      "link": "/"
+    },
+    {
+      "name": "Careers",
+      "link": "/"
+    },
+    {
+      "name": "FAQs",
+      "link": "/"
+    },
+    {
+      "name": "Contact Info",
+      "link": "/"
+    },
+    {
+      "name": "Press",
+      "link": ""
+    },
+    {
+      "name": "Rise Impact",
+      "link": "/"
+    }
+  ],
+  "Explore": [
+    {
+      "name": "Investmet Club",
+      "link": "/"
+    },
+    {
+      "name": "Blog",
+      "link": "/"
+    }
+  ],
+  "Products": [
+    {
+      "name": "Rise App",
+      "link": "/"
+    },
+    {
+      "name": "Wallets",
+      "link": "/"
+    },
+    {
+      "name": "Asset Classes",
+      "link": "/"
+    }
+  ],
+  "Contact_Us": [
+    {
+      "name": "0818 714 7405",
+      "link": "/"
+    },
+    {
+      "name": "hello@rise.capital",
+      "link": "/"
+    },
+    {
+      "name": "Newsletter",
+      "link": "/"
+    },
+    {
+      "name": "Instagram",
+      "link": "/"
+    },
+    {
+      "name": "Twitter",
+      "link": "/"
+    }
+  ]
+}

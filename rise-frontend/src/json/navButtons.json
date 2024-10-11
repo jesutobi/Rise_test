@@ -1,0 +1,28 @@
+[
+  {
+    "text": "Home",
+    "icon": "",
+    "link": "/"
+  },
+  { "text": "Products", "icon": "/icon/order.svg", "link": "" },
+  {
+    "text": "Investment Club",
+    "icon": "",
+    "link": ""
+  },
+  {
+    "text": "Blog",
+    "icon": "",
+    "link": ""
+  },
+  {
+    "text": "About Us ",
+    "icon": "",
+    "link": ""
+  },
+  {
+    "text": "FAQs ",
+    "icon": "",
+    "link": ""
+  }
+]
