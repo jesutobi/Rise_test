@@ -8,8 +8,8 @@
 
 @font-face {
   font-family: "BodyGrotesque";
-  src: url("./fonts/Body-Grotesque-Fit-Bold-trial.woff") format("woff");
-  font-weight: normal;
+  src: url("./fonts/BaguedeFree-Regular.woff") format("woff");
+
   font-style: normal;
 }
 @font-face {
@@ -18,8 +18,9 @@
 }
 
 .TG_font {
+  font-weight: bolder !important;
   font-family: "BodyGrotesque" !important;
-  letter-spacing: 0.5px !important;
+  /* letter-spacing: 0.5px !important; */
   line-height: 40px !important;
 }
 .DM_font {

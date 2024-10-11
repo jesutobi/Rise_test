@@ -8,7 +8,10 @@
             <span>Download The Rise App.</span>
           </div>
           <div class="TG_font fs-570 mob_title_size">
-            <span>Join our 1 users investing and setting long term goals!</span>
+            <span
+              >Join our 100,000 users investing and setting long term
+              goals!</span
+            >
           </div>
           <div class="spacing fs-40 c_grey">
             <span>Dollar investments that help you grow.</span>

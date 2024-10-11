@@ -23,6 +23,9 @@
       <!-- grid 2 -->
       <div class="width_style first_order">
         <div>
+          <div class="spacing fs-400">
+            <span class="">The Rise App </span>
+          </div>
           <div class="TG_font fs-570 mob_title_size">
             <span>Save for your <span class="c_Indigo">future</span></span>
           </div>

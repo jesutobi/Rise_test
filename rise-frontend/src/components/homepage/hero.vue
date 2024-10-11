@@ -89,9 +89,9 @@ import Balls from "@/components/extras/balls.vue";
     font-size: 3.5rem !important;
   }
 }
-@media (min-width: 640px) {
+@media (min-width: 768px) {
   .hero_intro_font {
-    font-size: 2.8rem !important;
+    font-size: 2.8rem;
   }
 }
 @media (max-width: 568px) {
@@ -119,7 +119,7 @@ import Balls from "@/components/extras/balls.vue";
     width: 100% !important;
   }
   .hero_intro_font {
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
   .fs-400 {
     font-size: 1rem !important;
