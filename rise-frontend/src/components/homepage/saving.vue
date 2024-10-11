@@ -24,7 +24,7 @@
       <div class="width_style first_order">
         <div>
           <div class="TG_font fs-570 mob_title_size">
-            <span>Save for your <span>future</span></span>
+            <span>Save for your <span class="c_Indigo">future</span></span>
           </div>
           <div class="spacing fs-400">
             <span class=""
@@ -34,7 +34,7 @@
           </div>
           <div>
             <button
-              class="bg_teal2 button_style hover_animation"
+              class="bg_teal c_white button_style hover_animation"
               aria-label="button to Start Saving"
             >
               <span>Start Saving</span>

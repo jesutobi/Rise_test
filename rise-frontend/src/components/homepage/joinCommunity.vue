@@ -18,7 +18,7 @@
           </div>
           <div>
             <button
-              class="bg_teal2 button_style hover_animation"
+              class="bg_teal c_white button_style hover_animation"
               aria-label="Join rise community"
             >
               <span>Join our Community</span>

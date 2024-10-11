@@ -56,6 +56,7 @@
   --clr-deepGrey: #4a5050;
   --clr-lightOrange: #fff4f0;
   --clr-lightIndigo: #f6f2ff;
+  --clr-Indigo: #8b65e6;
   --clr-white: #ffffff;
 }
 
@@ -135,8 +136,14 @@
 .c_teal {
   color: var(--clr-teal);
 }
+.c_white {
+  color: var(--clr-white);
+}
 .c_lightgrey {
   color: var(--clr-lightGrey);
+}
+.c_Indigo {
+  color: var(--clr-Indigo);
 }
 .c_grey {
   color: var(--clr-deepGrey);
@@ -152,6 +159,9 @@
 }
 .bg_teal2 {
   background-color: var(--clr-teal2) !important;
+}
+.bg_teal {
+  background-color: var(--clr-teal);
 }
 .bg_white {
   background-color: var(--clr-white) !important;
