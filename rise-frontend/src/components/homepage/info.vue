@@ -6,6 +6,7 @@
       class="grid grid_margin"
     >
       <!-- grid 1 -->
+      <!-- information text -->
       <div :class="item.content.order" class="width_style mob_first_order">
         <div class="txt_style">
           <div>

@@ -23,6 +23,7 @@
       </div>
       <!-- grid 2 -->
       <div class="second_order display_flex justify_content_evenly">
+        <!-- phone image -->
         <img src="/Phone.svg" class="img_width" alt="phone image" />
       </div>
     </div>
@@ -42,6 +43,7 @@
 </template>
 
 <script setup>
+// app badge component
 import AppBadges from "@/components/extras/appBadges.vue";
 import Balls from "@/components/extras/balls.vue";
 </script>
