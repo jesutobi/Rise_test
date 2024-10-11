@@ -29,7 +29,7 @@
       <!-- grid 2 -->
       <div class="display_flex justify_content_center second_order">
         <img
-          src="@/assets/images/join.svg"
+          src="/join.svg"
           class="img_width"
           alt="image that shows various various people in the community"
         />

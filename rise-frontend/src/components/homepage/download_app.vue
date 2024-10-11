@@ -22,7 +22,7 @@
       <!-- grid 2 -->
       <div class="display_flex justify_content_center mobile_phone_sapcing">
         <img
-          src="@/assets/images/Phone2.svg"
+          src="/Phone2.svg"
           class="img_width"
           alt="mobile phone that shows the app interface"
         />

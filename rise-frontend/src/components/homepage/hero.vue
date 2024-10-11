@@ -23,11 +23,7 @@
       </div>
       <!-- grid 2 -->
       <div class="second_order display_flex justify_content_evenly">
-        <img
-          src="@/assets/images/Phone.svg"
-          class="img_width"
-          alt="phone image"
-        />
+        <img src="/Phone.svg" class="img_width" alt="phone image" />
       </div>
     </div>
     <!-- Scatter Circles -->
@@ -36,7 +32,7 @@
     <div class="display_flex justify_content_center">
       <!-- <div> -->
       <img
-        src="@/assets/images/partners.svg"
+        src="/partners.svg"
         alt="supported by ,Arm trustees , western union , techstars , Ventures Platform"
         class="partners_image_size"
       />
