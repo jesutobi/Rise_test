@@ -41,7 +41,7 @@
         :class="item.img.order"
         class="mob_second_order display_flex justify_content_center"
       >
-        <img :src="`../../public/${item.img.src}`" class="img_width" alt="" />
+        <img :src="`/${item.img.src}`" class="img_width" alt="" />
       </div>
     </div>
   </div>

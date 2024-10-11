@@ -27,7 +27,7 @@
           <div class="icon_position">
             <div class="icon_radius">
               <img
-                :src="`../public/${item.icon}`"
+                :src="`/${item.icon}`"
                 :alt="`icon that represents ${item.title}`"
               />
             </div>
