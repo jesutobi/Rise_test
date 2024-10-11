@@ -5,7 +5,7 @@
         <div class="nav_display nav_spacing">
           <!-- logo -->
           <div aria-label="click to visit home page">
-            <img src="@/assets/icon/logo.right" alt="rise logo" />
+            <img src="@/assets/icon/logo.svg" alt="rise logo" />
           </div>
           <!-- nav buttons -->
           <div class="nav_display TG_reg_font nav_buttons_display">
@@ -56,7 +56,7 @@
         <div style="padding: 2rem 0rem" class="close_flex">
           <!-- logo -->
           <div aria-label="click to visit home page">
-            <img src="@/assets/icon/logo.right" alt="rise logo" />
+            <img src="@/assets/icon/logo.svg" alt="rise logo" />
           </div>
           <div aria-label="click to close mobile menu" @click="close_menu">
             <img src="@/assets/icon/cancel.svg" alt=" cancel icon " />
