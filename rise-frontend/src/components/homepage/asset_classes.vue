@@ -13,7 +13,7 @@
       <div
         v-for="(item, index) in AssetData"
         :key="index"
-        class="text_style relative card_style bg_white"
+        class="text_style relative card_style bg_white hover_animation button_style"
       >
         <!-- icon -->
         <div
@@ -78,6 +78,15 @@ import AssetData from "@/json/assets.json";
 </script>
 
 <style scoped>
+.hover_animation:hover {
+  transform: scale(1.02); /* Slightly enlarges the button */
+  box-shadow: 0 4px 6px -1px rgba(141, 141, 141, 0.1),
+    0 2px 4px -1px rgba(118, 118, 118, 0.06);
+}
+.button_style {
+  cursor: pointer;
+  transition: transform 0.7s ease;
+}
 .text_style {
   text-align: center !important;
 }

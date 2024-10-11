@@ -88,6 +88,7 @@ import InfoData from "@/json/info.json";
 @media (min-width: 640px) {
   .img_width {
     width: 80%;
+    animation: bounce1 8s ease-in-out infinite;
   }
 }
 @media (max-width: 768px) {
@@ -101,6 +102,7 @@ import InfoData from "@/json/info.json";
   }
   .img_width {
     width: 100%;
+    animation: bounce1 8s ease-in-out infinite;
   }
   .fs-400 {
     font-size: 1rem !important;
@@ -115,6 +117,16 @@ import InfoData from "@/json/info.json";
   /* mobile title */
   .mob_title_size {
     font-size: 1.2rem !important;
+  }
+}
+/* Keyframes for bouncing animation */
+@keyframes bounce1 {
+  0%,
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+  50% {
+    transform: translateY(-20px) translateX(20px);
   }
 }
 </style>

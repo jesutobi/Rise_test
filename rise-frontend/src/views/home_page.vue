@@ -15,6 +15,10 @@
       <div>
         <Asset />
       </div>
+      <!-- Savings Community -->
+      <div>
+        <Savings />
+      </div>
       <!-- Join Community -->
       <div>
         <Join />
@@ -39,6 +43,7 @@ import Asset from "../components/homepage/asset_classes.vue";
 import Footer from "../components/homepage/footer.vue";
 import Download from "../components/homepage/download_app.vue";
 import Join from "../components/homepage/joinCommunity.vue";
+import Savings from "../components/homepage/saving.vue";
 </script>
 
 <style scoped>

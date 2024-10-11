@@ -29,7 +29,7 @@
       <!-- grid 2 -->
       <div class="display_flex justify_content_center second_order">
         <img
-          src="/join.svg"
+          src="@/assets/images/people.png"
           class="img_width"
           alt="image that shows various various people in the community"
         />
@@ -53,7 +53,7 @@
 }
 
 .grid_margin {
-  margin-top: 8rem !important;
+  margin: 8rem 0rem !important;
 }
 
 .button_style {
@@ -108,7 +108,7 @@
     padding: 1rem 0rem !important;
   }
   .img_width {
-    width: 0% !important;
+    width: 80% !important;
   }
 }
 </style>
